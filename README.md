@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Fraggerz777 or you can call me Charlie
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Mobile Development
-- 💞️ I’m looking to collaborate on Mobile Project
-- 📫 How to reach me charlievalentino17@gmail.com
-- 😄 Pronouns: HIM
-- ⚡ Fun fact: I'm a jack of all trades
+# Halo semua! 
+
+👋 Perkenalkan nama saya **Charlie Valentino S**.<br>
+
+🌱 Saya Seorang **Mobile Developer Cohort** di [Bangkit Academy]([https://www.dicoding.com/](https://www.dicoding.com/programs/bangkit)).<br>
+
+💞️ Saya bertanggung jawab mempelajari Pengembangan Softrware Android<br>
+
+😄 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/charlie-valentino-sutanto-147787251/))ku ya.
+
 
 <!---
 Fraggerz777/Fraggerz777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
