@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraggerz777" alt="fraggerz777" /></a> </p>
 
-- 🔭 I’m currently working on [ms/bangkit](ms/bangkit)
+- 🔭 I’m currently working on [ms/asah](ms/asah)
 
-- 🌱 I’m currently learning Mobile Development **https://www.dicoding.com/programs/bangkit**
+- 🌱 I’m currently learning Mobile Development **[https://www.dicoding.com/asah](https://www.dicoding.com/asah)**
 
 - 📫 How to reach me **charlievalentino17@gmail.com**
 
